@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: linear-gradient(to bottom, #2b333b, rgba(43,51,49,0));
   color: white;
   text-align: center;
   padding: 1em 0;
